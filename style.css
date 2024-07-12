@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #c0bebc;
+}
+.jumbotron1 {
+  background-color: #273036;
+}
+
+#staff {
+  background-color: #273036;
+}
+
+h2 {
+  color: #fff;
+}
+
+.img Doni {
+  border: 10px solid #fff;
+}
+
+.staff1 {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: black;
+  border-radius: 50%;
+  background-color: #ff0707;
+}
+
+#projects {
+  background-color: #fff;
+}
+
+#contact {
+  background-color: #c0bebc;
+}
+
+section {
+  padding-top: 5rem;
+}
